@@ -47,7 +47,7 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thumb = 'https://ibb.co/M8rYKF9' //ur thumb pic
+global.thum = fs.readFileSync("./ThisPC/Pictures/redhunteranime.jpg") //ur thumb pic
 global.thumb = 'https://ibb.co/M8rYKF9' //ur logo pi
 global.thumb = 'https://ibb.co/M8rYKF9'
 global.thumb = 'https://ibb.co/M8rYKF9' //ur thumb pic
