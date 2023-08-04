@@ -21,17 +21,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917593010965'] //ur owner number
+global.owner = ['919847454840'] //ur owner number
 global.ownernomer = "917593010976" //ur owner number2
-global.ownername = "𝙅𝞡𝞑𝙄𝙉 𝙎𝞝𝙍" //ur owner name
+global.ownername = "RΞDHunter ズ" //ur owner name
 global.ytname = "YT: " //ur yt chanel name
 global.socialm = "GitHub: JOBINSER666" //ur github or insta name
 global.location = "India, Kerala, Thiruvnathapuram" //ur location
 
 //new
-global.botname = "😻 𝙈𝞝𝞗𝙒 😻"
-global.ownernumber = '917593010976'
-global.ownername = '𝙅𝞡𝞑𝙄𝙉 𝙎𝞝𝙍'
+global.botname = "RΞDHunter ズ"
+global.ownernumber = '919847454840'
+global.ownername = 'RΞDHunter ズ'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
 global.ownerweb = "http://bit.ly/JOBIN-SER-AI-BOT"
 global.websitex = "https://cutt.ly/wwaQlSNE"
@@ -39,7 +39,7 @@ global.wagc = "https://chat.whatsapp.com/C3V3RDMFLsv3FYYVd0KCKH"
 global.themeemoji = '🪀'
 global.wm = "Cat Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "😻 𝙈𝞝𝞗𝙒 😻"
+global.packname = "RΞDHunter ズ"
 global.author = "🦄드림 가이 Cat\n\n"
 global.creator = "917593010965@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
@@ -47,10 +47,10 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = 'https://ibb.co/M8rYKF9' //ur thumb pic
+gglobal.thumb = 'https://ibb.co/M8rYKF9' //ur logo pi
+global.thumb = 'https://ibb.co/M8rYKF9'
+global.thumb = 'https://ibb.co/M8rYKF9' //ur thumb pic
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
 
 //menu image maker
