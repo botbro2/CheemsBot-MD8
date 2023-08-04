@@ -47,11 +47,11 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./ThisPC/Pictures/redhunteranime.jpg") //ur thumb pic
-global.thumb = 'https://ibb.co/M8rYKF9' //ur logo pi
-global.thumb = 'https://ibb.co/M8rYKF9'
-global.thumb = 'https://ibb.co/M8rYKF9' //ur thumb pic
-global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
+global.thum = 'https://ibb.co/M8rYKF9' //ur thumb pic
+global.thum = 'https://ibb.co/M8rYKF9' //ur logo pi
+global.thum = 'https://ibb.co/M8rYKF9'
+global.thum = 'https://ibb.co/M8rYKF9' //ur thumb pic
+global.defaultpp = 'https://ibb.co/M8rYKF9' //default pp wa
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
