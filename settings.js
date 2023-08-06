@@ -47,12 +47,11 @@ global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = 'https://ibb.co/M8rYKF9' //ur thumb pic
-global.thum = 'https://ibb.co/M8rYKF9' //ur logo pi
-global.thum = 'https://ibb.co/M8rYKF9'
-global.thum = 'https://ibb.co/M8rYKF9' //ur thumb pic
-global.defaultpp = 'https://ibb.co/M8rYKF9' //default pp wa
-
+global.thum = fs.readFileSync("./XeonMedia/theme/redhunteranime.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/redhunteranime.jpg") //ur logo pi
+global.thum = fs.readFileSync("./XeonMedia/theme/redhunteranime.jpg")
+global.thum = fs.readFileSync("./XeonMedia/theme/redhunteranime.jpg")
+global.defaultpp = fs.readFileSync("./XeonMedia/theme/redhunteranime.jpg")
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
